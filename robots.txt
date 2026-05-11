@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://greater-london-2026-q2-24-islington-render.onrender.com/sitemap.xml
+Sitemap: https://greater-london-2026-q2-24-islington.onrender.com/sitemap.xml
